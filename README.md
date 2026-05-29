@@ -12,6 +12,8 @@ All of these features were not implemented on the first part, and this also the 
 **Project Structure**
 
 <img width="678" height="235" alt="image" src="https://github.com/user-attachments/assets/fffc7497-4443-497f-93ab-cb82336774d7" />
+
+
 Key Components
 1. MainWindow (View)
 Manages UI elements and user interactions
