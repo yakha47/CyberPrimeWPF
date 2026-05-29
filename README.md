@@ -9,3 +9,7 @@ There's also a **Keyword Recognition** feature that will enhance the chatbotsabi
 
 All of these features were not implemented on the first part, and this also the change I have made. You can also say, it is the difference between part 1 and part 2
 
+**Project Structure**
+<img width="450" height="346" alt="image" src="https://github.com/user-attachments/assets/c4b083e5-d4e3-4826-ac72-8d159898faae" />
+
+
