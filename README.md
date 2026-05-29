@@ -10,6 +10,43 @@ There's also a **Keyword Recognition** feature that will enhance the chatbotsabi
 All of these features were not implemented on the first part, and this also the change I have made. You can also say, it is the difference between part 1 and part 2
 
 **Project Structure**
-<img width="450" height="346" alt="image" src="https://github.com/user-attachments/assets/c4b083e5-d4e3-4826-ac72-8d159898faae" />
+
+<img width="678" height="235" alt="image" src="https://github.com/user-attachments/assets/fffc7497-4443-497f-93ab-cb82336774d7" />
+Key Components
+1. MainWindow (View)
+Manages UI elements and user interactions
+
+Handles input validation and display updates
+
+Coordinates between user and Chatbot
+
+2. Chatbot (Controller/Model)
+Processes user input using keyword matching
+
+Manages conversation context and memory
+
+Detects sentiment and provides empathetic responses
+
+Generates random responses from predefined lists
+
+3. AudioService
+Plays audio files asynchronously
+
+Gracefully handles missing files
+
+**Overview**
+CyberPrime is an intelligent, GUI-based cybersecurity awareness chatbot designed to educate users about online safety through natural, empathetic conversations. Built with WPF (.NET 6.0), it features sentiment detection, memory capabilities, and dynamic responses to create an engaging learning experience.
+
+**Visual Features**
+ASCII art logo display
+
+Color-coded chat bubbles (user, bot, warnings)
+
+Typing indicator animation
+
+Responsive layout that adapts to window size
+
+
+
 
 
